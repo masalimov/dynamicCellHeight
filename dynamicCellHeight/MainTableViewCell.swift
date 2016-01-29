@@ -2,8 +2,8 @@
 //  MainTableViewCell.swift
 //  dynamicCellHeight
 //
-//  Created by madmir on 22.01.16.
-//  Copyright © 2016 madmir. All rights reserved.
+//  Created by Dmitriy Masalimov on 22.01.16.
+//  Copyright © 2016 Dmitriy Masalimov. All rights reserved.
 //
 
 import UIKit
