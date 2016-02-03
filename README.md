@@ -1,4 +1,4 @@
 # dynamicCellHeight
 Dynamic UITableView cell height without storyboard (example)
 
-![Screenshot](/dynamicCellHeight.png)
+![Screenshot](/dynamicCellHeight.png?raw=true)
